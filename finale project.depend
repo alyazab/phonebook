@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1545895123 source:c:\users\aliaz\onedrive\desktop\finale project\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+
+1545869927 c:\users\aliaz\onedrive\desktop\finale project\functions.h
+
+1545869927 source:c:\users\aliaz\onedrive\desktop\finale project\main.c
+	"functions.h"
+
+1545869927 source:c:\programming 1\project\finale project\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+
+1545869927 c:\programming 1\project\finale project\functions.h
+
+1545869927 source:c:\programming 1\project\finale project\main.c
+	"functions.h"
+
